@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "uuid": "06a4ec58-ccdb-7f7a-8000-c87be6e8dd67",
+  "name": "wagahai_wa_neko_de_aru_annotated_clean_reader",
+  "ingested_from": {
+    "folder": "TEXT",
+    "ingest_relpath": "wagahai_wa_neko_de_aru_annotated_clean_reader.md",
+    "original_name": "wagahai_wa_neko_de_aru_annotated_clean_reader.md",
+    "source_path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/book/wagahai_wa_neko_de_aru_annotated_clean_reader.md"
+  },
+  "archive": {
+    "category": "TEXT",
+    "path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/book/wagahai_wa_neko_de_aru_annotated_clean_reader.md",
+    "filename": "wagahai_wa_neko_de_aru_annotated_clean_reader.md"
+  },
+  "notes": null,
+  "tags": [
+    {
+      "tag": "folder:book",
+      "by": "ouroboros:watcher",
+      "at": "2026-07-08T21:47:56.828838+00:00"
+    }
+  ],
+  "indexed": {
+    "rev": 1,
+    "sha256": "2bf76c708844c07fe203d67d0f80a38331e69d9ff87c2b747ac670ad0b893b9a",
+    "size": 470733,
+    "mtime": 1783547275,
+    "indexed_at": "2026-07-08T21:47:56.829877+00:00",
+    "by": "ouroboros:watcher"
+  }
+}

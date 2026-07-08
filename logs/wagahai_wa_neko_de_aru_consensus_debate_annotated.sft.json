@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "uuid": "06a4ec58-cd24-7606-8000-1c68e6aa2d52",
+  "name": "wagahai_wa_neko_de_aru_consensus_debate_annotated",
+  "ingested_from": {
+    "folder": "TEXT",
+    "ingest_relpath": "wagahai_wa_neko_de_aru_consensus_debate_annotated.md",
+    "original_name": "wagahai_wa_neko_de_aru_consensus_debate_annotated.md",
+    "source_path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/logs/wagahai_wa_neko_de_aru_consensus_debate_annotated.md"
+  },
+  "archive": {
+    "category": "TEXT",
+    "path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/logs/wagahai_wa_neko_de_aru_consensus_debate_annotated.md",
+    "filename": "wagahai_wa_neko_de_aru_consensus_debate_annotated.md"
+  },
+  "notes": null,
+  "tags": [
+    {
+      "tag": "folder:logs",
+      "by": "ouroboros:watcher",
+      "at": "2026-07-08T21:47:56.848774+00:00"
+    }
+  ],
+  "indexed": {
+    "rev": 1,
+    "sha256": "e8d98f956d522b7fd3b0a1369abeaffba94c6e0924d8fc9efb3f78f436e02900",
+    "size": 1981172,
+    "mtime": 1783547275,
+    "indexed_at": "2026-07-08T21:47:56.849197+00:00",
+    "by": "ouroboros:watcher"
+  }
+}

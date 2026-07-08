@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "uuid": "06a4e892-cf72-711c-8000-e6e2cb16ebae",
+  "name": "README",
+  "ingested_from": {
+    "folder": "TEXT",
+    "ingest_relpath": "README.md",
+    "original_name": "README.md",
+    "source_path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/README.md"
+  },
+  "archive": {
+    "category": "TEXT",
+    "path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/README.md",
+    "filename": "README.md"
+  },
+  "notes": null,
+  "tags": [
+    {
+      "tag": "folder:Loom_Protocol",
+      "by": "ouroboros:watcher",
+      "at": "2026-07-08T22:06:06.897349+00:00"
+    }
+  ],
+  "indexed": {
+    "rev": 4,
+    "sha256": "1ad5e3f87540b6cbda341fdbd720ae475a1e51187974957cb1440eeaf5de8ddb",
+    "size": 4931,
+    "mtime": 1783548793,
+    "indexed_at": "2026-07-08T22:13:15.177599+00:00",
+    "by": "ouroboros:watcher"
+  }
+}

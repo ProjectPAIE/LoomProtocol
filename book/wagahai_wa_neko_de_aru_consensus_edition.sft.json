@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "uuid": "06a4ec75-85f9-74b7-8000-ad167acde480",
+  "name": "wagahai_wa_neko_de_aru_consensus_edition",
+  "ingested_from": {
+    "folder": "TEXT",
+    "ingest_relpath": "wagahai_wa_neko_de_aru_consensus_edition.epub",
+    "original_name": "wagahai_wa_neko_de_aru_consensus_edition.epub",
+    "source_path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/book/wagahai_wa_neko_de_aru_consensus_edition.epub"
+  },
+  "archive": {
+    "category": "TEXT",
+    "path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/book/wagahai_wa_neko_de_aru_consensus_edition.epub",
+    "filename": "wagahai_wa_neko_de_aru_consensus_edition.epub"
+  },
+  "notes": "The text is a narrative from the perspective of a cat named Akiyama, who reflects on his life and encounters with humans, particularly one man known as the \"master.\" Akiyama initially lives as a stray, struggling to survive, but eventually finds shelter with the master. He observes that humans are just as cruel and unpredictable as animals and compares himself to other cats in a philosophical way. The narrative shifts focus to the master's artistic journey, as he abandons poetry for painting, and Akiyama watches his growth as an artist. In the end, Akiyama confesses his feelings of disheartened self-awareness, feeling misunderstood and misrepresented by the master's art. The text uses Japanese cultural symbols and literary devices to explore themes of human nature, existentialism, and the blurred lines between animals and humans.",
+  "tags": [
+    {
+      "tag": "folder:book",
+      "by": "ouroboros:watcher",
+      "at": "2026-07-08T21:55:36.413011+00:00"
+    }
+  ],
+  "indexed": {
+    "rev": 1,
+    "sha256": "0347e07eba46745ae3a6693e2c96f261f3dfa128ab1c5397377a98b95a06f18b",
+    "size": 634374,
+    "mtime": 1783547724,
+    "indexed_at": "2026-07-08T21:55:36.413537+00:00",
+    "by": "ouroboros:watcher"
+  }
+}

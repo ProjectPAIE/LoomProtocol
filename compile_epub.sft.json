@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "uuid": "06a4ec74-adaf-7449-8000-44ea0ec98a58",
+  "name": "compile_epub",
+  "ingested_from": {
+    "folder": "TEXT",
+    "ingest_relpath": "compile_epub.py",
+    "original_name": "compile_epub.py",
+    "source_path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/compile_epub.py"
+  },
+  "archive": {
+    "category": "TEXT",
+    "path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/compile_epub.py",
+    "filename": "compile_epub.py"
+  },
+  "notes": null,
+  "tags": [
+    {
+      "tag": "folder:Loom_Protocol",
+      "by": "ouroboros:watcher",
+      "at": "2026-07-08T21:55:22.865092+00:00"
+    }
+  ],
+  "indexed": {
+    "rev": 1,
+    "sha256": "b50f81a08b4607f9b1a523581cc331cba6df1b48666a3f0d5479c24d7a46a0dd",
+    "size": 9521,
+    "mtime": 1783547721,
+    "indexed_at": "2026-07-08T21:55:22.865534+00:00",
+    "by": "ouroboros:watcher"
+  }
+}

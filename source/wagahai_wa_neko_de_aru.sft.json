@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "uuid": "06a4ec58-cca5-7dbf-8000-1018d702c3d8",
+  "name": "wagahai_wa_neko_de_aru",
+  "ingested_from": {
+    "folder": "TEXT",
+    "ingest_relpath": "wagahai_wa_neko_de_aru.txt",
+    "original_name": "wagahai_wa_neko_de_aru.txt",
+    "source_path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/source/wagahai_wa_neko_de_aru.txt"
+  },
+  "archive": {
+    "category": "TEXT",
+    "path": "/Users/user/Projects/PAIE/Demo/Loom_Protocol/source/wagahai_wa_neko_de_aru.txt",
+    "filename": "wagahai_wa_neko_de_aru.txt"
+  },
+  "notes": null,
+  "tags": [
+    {
+      "tag": "folder:source",
+      "by": "ouroboros:watcher",
+      "at": "2026-07-08T21:47:56.829381+00:00"
+    }
+  ],
+  "indexed": {
+    "rev": 1,
+    "sha256": "17a77378aa71de9632f7c9f0e8e8570aa599b22b7457da22f731ec61b32b8b73",
+    "size": 962365,
+    "mtime": 1783547275,
+    "indexed_at": "2026-07-08T21:47:56.830201+00:00",
+    "by": "ouroboros:watcher"
+  }
+}
