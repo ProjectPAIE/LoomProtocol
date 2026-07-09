@@ -1,13 +1,15 @@
 # 🕸️ Loom Protocol
 
-> **Decentralized Mixture-of-Agents (MoA) Ingestion & Consensus Engine.**
+> **Decentralized Task Sharding & Compute Orchestration Engine.**
 
-Loom Protocol is a local-first, peer-to-peer orchestration framework designed to ingest, shard, process, and verify large-scale textual data across a distributed network of consumer hardware nodes. It coordinates multi-model critique and consensus debate loops to resolve complex tasks with high fidelity.
+Loom Protocol is a local-first, peer-to-peer orchestration framework designed to take the "big picture" of large-scale textual data, break it into a puzzle of sharded chunks, distribute those chunks across a mesh of consumer hardware nodes to get work done, and compile them back together into a single, unified record.
 
-### 🔮 The Core Philosophy: General-Purpose Consensus & Compute Auditing
-While this current demo showcases translation, **Loom is a general-purpose consensus engine.** The same architecture can be applied to code review, semantic synthesis, data deduplication, or multi-perspective analysis. 
+### 🔮 The Core Philosophy: Do We Need Bigger Computers?
+Maybe. But maybe we don't. 
 
-The **rockstar of the show is transparent data lineage.** Unlike black-box cloud APIs, Loom provides complete cryptographic and relational accountability: every single chunk of data processed contains an immutable record of **exactly which physical machine in your network computed it, which model drafted it, and which node approved it.**
+Instead of relying on massive, centralized supercomputing clouds or expensive server rigs to process complex cognitive tasks, Loom decomposes the workload. By turning any large task into a puzzle, we can distribute the pieces across whatever everyday consumer hardware is already standing by in our homes and offices (laptops, desktops, Raspberry Pis). 
+
+The **rockstar of the show is transparent compute lineage.** Unlike black-box cloud APIs, Loom provides complete cryptographic and relational accountability: every single chunk of data processed contains an immutable record of **exactly which physical machine in your network solved that piece of the puzzle, which model drafted it, and when.**
 
 ### 📢 Open Access & Consumer Transparency Mandate (AGPLv3 Section 7)
 To prevent commercial exploitation and protect end-users from paying for what we built for free, any service, product, or SaaS platform distributing or hosting the Loom Protocol **MUST prominently display the following notification to users on their sign-up, checkout, or download page:**
