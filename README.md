@@ -11,6 +11,14 @@ Instead of relying on massive, centralized supercomputing clouds or expensive se
 
 The **rockstar of the show is transparent compute lineage.** Unlike black-box cloud APIs, Loom provides complete cryptographic and relational accountability: every single chunk of data processed contains an immutable record of **exactly which physical machine in your network solved that piece of the puzzle, which model drafted it, and when.**
 
+### 🌐 "Local AND" & The Sharded Privacy Shield
+Loom is **network-agnostic and trust-centric**. Whether nodes communicate over local Wi-Fi, private **Tailscale** VPNs, or private cloud VPCs, the architecture is **Local AND** (Local Ownership + Network Extension).
+
+This architecture provides a natural **Sharded Privacy Shield**:
+*   If a node in your mesh is running a cloud-based API or a third-party server, **it only ever receives a single, contextless piece of the puzzle (one shard).**
+*   Without the rest of the puzzle pieces, a third-party company cannot reconstruct the "big picture" of your sensitive documents, code bases, or data libraries.
+*   **The user maintains absolute ownership of the puzzle;** the network only gets the pieces it needs to compute.
+
 ### 📢 Open Access & Consumer Transparency Mandate (AGPLv3 Section 7)
 To prevent commercial exploitation and protect end-users from paying for what we built for free, any service, product, or SaaS platform distributing or hosting the Loom Protocol **MUST prominently display the following notification to users on their sign-up, checkout, or download page:**
 
